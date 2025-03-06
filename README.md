@@ -4,9 +4,11 @@ Zero Knowledge Aadhaar is a zero-knowledge proof solution that allows users to p
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b6685969-f43c-43a5-a920-38eee97dc376" alt="Screenshot 4" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/99d168c6-f8ca-404f-af17-344907ba3743" alt="Screenshot 1" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/5687043d-da6b-4978-b084-ea04fa826658" alt="Screenshot 2" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/b6685969-f43c-43a5-a920-38eee97dc376" alt="Screenshot 4" width="600"></td>
+    <td><img src="https://github.com/user-attachments/assets/99d168c6-f8ca-404f-af17-344907ba3743" alt="Screenshot 1" width="600"></td>
+    </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5687043d-da6b-4978-b084-ea04fa826658" alt="Screenshot 2" width="600"></td>
     
   </tr>
 </table>
